@@ -7,7 +7,7 @@ from django.db.models.fields import BLANK_CHOICE_DASH, EmailField
 ###############       creating custom user model for django projects       #####
 
 
-#for baser user models
+#for base user models
 #check the official docs https://docs.djangoproject.com/en/3.1/topics/auth/customizing/
 
 #for creating base model
